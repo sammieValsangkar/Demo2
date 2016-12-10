@@ -27,3 +27,14 @@ a {
 li:hover {
   background: #fff;
 }
+
+.banner-container {
+    width: 100%;  /* i'm assuming full width */
+    height: 400px; /* change it to desired width */
+
+}
+.banner {
+    width: 100%;  /* i'm assuming full width */
+    height: 400px; /* change it to desired width */
+
+}
