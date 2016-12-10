@@ -54,3 +54,15 @@ li:hover {
     text-align: center;
     color: gray;
 }
+
+.footer-container{
+    width: 100%;  /* i'm assuming full width */
+    height: 50px; /* change it to desired width */
+    align-content: center;
+    background-color: black;
+}
+.footer-text{
+  color: white;
+  text-align: center;
+
+}
